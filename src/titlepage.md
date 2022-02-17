@@ -6,7 +6,7 @@ It is a work in progress, made available for testing and feedback purposes.
 
 You can always download the latest version of DPD from [Github](https://github.com/digitalpalidictionary/digitalpalidictionary/releases).
 
-Here's how to get GoldenDict installed and setup on your machine ([Win](install_win.html) / [Mac](install_mac.html) / [Linux](install_linux.html) / [Android](install_andoid.html))
+Here's how to get GoldenDict installed and setup on your machine ([Win](install_win.html) / [Mac](install_mac.html) / [Linux](install_linux.html) / [Android](install_android.html))
 
 Next, you should really [configure the hotkey](setup_hotkey.html) if you're on Windows or Mac, or try the [scan-popup](setup_scan_popup.html) if you're on Linux. This will allow you to click on any word in any Pāḷi text, and automatically open it in GoldenDict.
 
