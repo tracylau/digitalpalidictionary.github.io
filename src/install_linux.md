@@ -1,0 +1,68 @@
+# Install GoldenDict on Linux
+
+First things first, download the latest version of Digital Pāḷi Dictionary from [Github](https://github.com/digitalpalidictionary/digitalpalidictionary/releases).
+
+## Make a GoldenDict folder
+
+It is recommended to make an easily accessible GoldenDict folder, for example /Documents/GoldenDict
+
+![create new folder](pics/linux-install/create%20new%20folder.png)
+
+Or in the terminal\
+`mkdir /home/your_user_name/Documents/GoldenDict`
+
+(Obviously, substitute your_user_name with your actual user name)
+
+## Unzip
+
+Right-click the DPD zip file in your Downloads folder and open it with Archive Manager.
+
+![archive manager](pics/linux-install/archive%20manager.png)
+
+Click Extract and select the folder `/Documents/GoldenDict`
+
+![extract](pics/linux-install/extract.png)
+
+Or in the terminal:
+
+`cd home/your_user_name/Downloads`\
+`unzip /home/your_user_name/Downloads/dpd.zip -d /home/your_user_name/Documents/GoldenDict`
+
+## Install GoldenDict
+
+GoldenDict can be installed directly with apt-get:
+
+`sudo apt-get update`\
+`sudo apt-get install goldendict`
+
+Or choose the distribution of your choice from [https://pkgs.org/download/goldendict](https://pkgs.org/download/goldendict):
+
+Or directly from the Software Manager:
+
+![software manager](pics/linux-install/software%20manager.png)
+
+Make sure to install version 1.5, not version 1.0!
+
+## Adding Dictionaries to GoldenDict
+
+Launch the GoldenDict application
+
+Go to Menu > Edit > Dictionaries (Shortcut **F3**)
+
+![dictionaries F3](pics/linux-install/dictionaries%20F3.png)
+
+Go to Sources > Files.\
+Click Add and select folder `/Documents/GoldenDict`
+
+![add](pics/linux-install/add.png)
+
+Click the recursive tick box √ (this makes sure GoldenDict searches in subfolders)
+
+![recursive](pics/linux-install/recursive.png)
+
+Click OK and wait a few moments while the dictionaries are indexing.
+
+You're all setup!
+
+Next learn how to [setup the hotkey](https://digitalpalidictionary.github.io/setup_hotkey.html) or [scan popup](https://digitalpalidictionary.github.io/setup_scan_popup.html) so you can click on any Pāḷi word in any text and open it immediately in the dictionary.
+
