@@ -11,3 +11,4 @@
 - [Setup the Scan Popup](setup_scan_popup.md)
 - [Update](update.md)
 - [GoldenDict Advanced Features](goldendict_advanced.md)
+- [Contact](contact.md)
