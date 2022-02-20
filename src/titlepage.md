@@ -4,21 +4,19 @@ DPD is a feature-rich Pāḷi-English dictionary which runs in GoldenDict, or an
 
 It is a work in progress, made available for testing and feedback purposes.
 
-You can always download the latest version of DPD from [Github](https://github.com/digitalpalidictionary/digitalpalidictionary/releases).
+Here's a handy guide to the [features](features.md) available in DPD. 
 
-Here's how to get GoldenDict installed and setup on your machine ([Win](install_win.html) / [Mac](install_mac.html) / [Linux](install_linux.html) / [Android](install_android.html))
+<!-- You can always download the latest version of DPD from [Github](https://github.com/digitalpalidictionary/digitalpalidictionary/releases). -->
 
-Next, you should really [configure the hotkey](setup_hotkey.html) if you're on Windows or Mac, or try the [scan-popup](setup_scan_popup.html) if you're on Linux. This will allow you to click on any word in any Pāḷi text, and automatically open it in GoldenDict.
+Here's how to get GoldenDict installed and setup on your machine ([Win](install_win.md) / [Mac](install_mac.md) / [Linux](install_linux.md) / [Android](install_android.md)) or [update](update.html) once a month.
 
-Once you're all setup, here's a handy guide to the [features](features.html) available in DPD. 
+Next, you should really [configure the hotkey](setup_hotkey.md) if you're on Windows or Mac, or try the [scan-popup](setup_scan_popup.md) if you're on Linux. This will allow you to click on any word in any Pāḷi text, and automatically open it in GoldenDict.
 
-If you spot a mistake, or notice something missing, here's where to [report it](https://docs.google.com/forms/d/e/1FAIpQLSf9boBe7k5tCwq7LdWgBHHGIPVc4ROO5yjVDo1X5LDAxkmGWQ/viewform?usp=pp_url&entry.1433863141=digitalpalidictionary.github.io). It generally takes less than a minute. 
+There are some powerful [advanced features for Goldendict](setup_advanced.md) that might be useful to you.
 
 While you're at it, here are some [more Pāḷi dictionaries](https://github.com/simsapa/simsapa-dictionary/releases) to intall in GoldenDict. The *combined-dictionary-stardict.zip* contains all of them in one file.
 
-Once you're all setup, [update](update.html) DPD every full moon to get the most up-to-date Pāḷi information.
-
-There are some powerful [advanced features for Goldendict](goldendict_advanced.html) that might be useful to you.
+If you spot a mistake, or notice something missing, here's where to [report it](https://docs.google.com/forms/d/e/1FAIpQLSf9boBe7k5tCwq7LdWgBHHGIPVc4ROO5yjVDo1X5LDAxkmGWQ/viewform?usp=pp_url&entry.1433863141=digitalpalidictionary.github.io). It generally takes less than a minute. 
 
 If you have any bright ideas to make this dictionary even better, or would like to get involved with the project, please [get in touch](contact.md).
 

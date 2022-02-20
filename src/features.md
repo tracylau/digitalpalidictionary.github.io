@@ -96,5 +96,10 @@ It generally takes less than a minute to log an error, and helps to improve the 
 
 ## Fonts
 
-If you prefer a sans-serif font, please install [Noto Sans](https://fonts.google.com/noto/specimen/Noto+Sans), it works well with Pāḷi diacritics. If you prefer a serif font, please install [Deja Vu Serif](https://www.fontsquirrel.com/fonts/dejavu-serif). or [Verajja Serif](https://en.m.fontke.com/font/10186264/), a specially created font for Pāḷi text. 
+If you prefer a sans-serif font, please install [Noto Sans](https://fonts.google.com/noto/specimen/Noto+Sans), it works well with Pāḷi diacritics. If you prefer a serif font, please install [Deja Vu Serif](https://www.fontsquirrel.com/fonts/dejavu-serif). or [Verajja Serif](https://en.m.fontke.com/font/10186264/), a specially created font for Pāḷi text.
 
+
+----------------------
+
+
+Enough in theory, here's how to get GoldenDict installed and setup on your machine ([Win](install_win.md) / [Mac](install_mac.md) / [Linux](install_linux.md) / [Android](install_android.md))

@@ -24,5 +24,5 @@ The settings I personally use are in the pic below. This opens the scan popup in
 
 Please experiment to find the settings that are comfortable for you.
 
-Next, take a look at how to setup some [advanced features in GoldenDict](goldendict_advanced.html).
+Next, take a look at how to setup some [advanced features in GoldenDict](setup_advanced.md).
 
