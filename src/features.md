@@ -102,4 +102,4 @@ If you prefer a sans-serif font, please install [Noto Sans](https://fonts.google
 ----------------------
 
 
-Enough in theory, here's how to get GoldenDict installed and setup on your machine ([Win](install_win.md) / [Mac](install_mac.md) / [Linux](install_linux.md) / [Android](install_android.md))
+Enough in theory, here's how to get GoldenDict installed and setup on your machine ([Win](install_win.md) / [Mac](install_mac.md) / [Linux](install_linux.md) / [Android](install_android.md)) or [update](update.md) once a month if you're already installed.

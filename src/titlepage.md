@@ -4,17 +4,17 @@ DPD is a feature-rich Pāḷi-English dictionary which runs in GoldenDict, or an
 
 It is a work in progress, made available for testing and feedback purposes.
 
-Here's a handy guide to the [features](features.md) available in DPD. 
+Here's a handy guide to some of the [features](features.md) available in DPD. 
 
 <!-- You can always download the latest version of DPD from [Github](https://github.com/digitalpalidictionary/digitalpalidictionary/releases). -->
 
-Here's how to get GoldenDict installed and setup on your machine ([Win](install_win.md) / [Mac](install_mac.md) / [Linux](install_linux.md) / [Android](install_android.md)) or [update](update.md) once a month.
+Firstly, you need to get GoldenDict installed and setup on your machine ([Win](install_win.md) / [Mac](install_mac.md) / [Linux](install_linux.md) / [Android](install_android.md)) or [update](update.md) once a month if you're already installed.
 
 Next, you should really [configure the hotkey](setup_hotkey.md) if you're on Windows or Mac, or try the [scan-popup](setup_scan_popup.md) if you're on Linux. This will allow you to click on any word in any Pāḷi text, and automatically open it in GoldenDict.
 
 There are some powerful [advanced features for Goldendict](setup_advanced.md) that might be useful to you.
 
-While you're at it, here are some [more Pāḷi dictionaries](https://github.com/simsapa/simsapa-dictionary/releases) to intall in GoldenDict. The *combined-dictionary-stardict.zip* contains all of them in one file.
+While you're at it, here are some [more Pāḷi dictionaries](https://github.com/simsapa/simsapa-dictionary/releases) to install in GoldenDict. The *combined-dictionary-stardict.zip* contains all of them in one file.
 
 If you spot a mistake, or notice something missing, here's where to [report it](https://docs.google.com/forms/d/e/1FAIpQLSf9boBe7k5tCwq7LdWgBHHGIPVc4ROO5yjVDo1X5LDAxkmGWQ/viewform?usp=pp_url&entry.1433863141=digitalpalidictionary.github.io). It generally takes less than a minute. 
 
