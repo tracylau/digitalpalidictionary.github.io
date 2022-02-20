@@ -1,4 +1,4 @@
-# How to setup scan-pop
+# Setup the Scan-pop
 
 Scan popup works best on Linux. Mileage may vary on other operating systems. 
 

@@ -1,6 +1,6 @@
 # Welcome to Digital Pāḷi Dictionary
 
-Digital Pāḷi Dictionary is a feature-rich Pāḷi dictionary which runs in GoldenDict, or any other application that supports the Stardict format.
+DPD is a feature-rich Pāḷi-English dictionary which runs in GoldenDict, or any other application that supports the Stardict format.
 
 It is a work in progress, made available for testing and feedback purposes.
 
@@ -20,7 +20,7 @@ Once you're all setup, [update](update.html) DPD every full moon to get the most
 
 There are some powerful [advanced features for Goldendict](goldendict_advanced.html) that might be useful to you.
 
-If you have any bright ideas to make this dictionary even better, please [send me a mail](mailto:digitalpalidictionary@gmail.com).
+If you have any bright ideas to make this dictionary even better, or would like to get involved with the project, please [get in touch](contact.md).
 
 Digital Pāḷi Dictionary is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
 
