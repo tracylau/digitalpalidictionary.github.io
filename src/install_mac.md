@@ -78,5 +78,5 @@ You're all setup!
 
 -------------------------------------------------
 
-Next learn how to [set up the hotkey](https://digitalpalidictionary.github.io/setup_hotkey.html) so you can click on any inflected Pāḷi word in any text and open it immediately in the dictionary.
+Next learn how to [set up the hotkey](https://digitalpalidictionary.github.io/setup_hotkey.md) so you can click on any inflected Pāḷi word in any text and open it immediately in the dictionary.
 

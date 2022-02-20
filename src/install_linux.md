@@ -64,5 +64,5 @@ Click OK and wait a few moments while the dictionaries are indexing.
 
 You're all setup!
 
-Next learn how to [setup the hotkey](https://digitalpalidictionary.github.io/setup_hotkey.html) or [scan popup](https://digitalpalidictionary.github.io/setup_scan_popup.html) so you can click on any Pāḷi word in any text and open it immediately in the dictionary.
+Next learn how to [setup the hotkey](https://digitalpalidictionary.github.io/setup_hotkey.md) or [scan popup](https://digitalpalidictionary.github.io/setup_scan_popup.md) so you can click on any Pāḷi word in any text and open it immediately in the dictionary.
 

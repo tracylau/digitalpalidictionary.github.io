@@ -89,6 +89,6 @@ Wait while the dictionary gets indexed.
 
 You're all setup!
 
-Next learn how to [set up the hotkey](https://digitalpalidictionary.github.io/setup_hotkey.html) so you can click on any Pāḷi word in any text and open it immediately in the dictionary.
+Next learn how to [set up the hotkey](https://digitalpalidictionary.github.io/setup_hotkey.md) so you can click on any Pāḷi word in any text and open it immediately in the dictionary.
 
 

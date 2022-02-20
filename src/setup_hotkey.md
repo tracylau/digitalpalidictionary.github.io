@@ -34,5 +34,5 @@ Of course you can also search for Pāḷi words the old-fashioned way ...
 
 ![search](pics/hotkey/search.png)
 
-If you're on Linux, also try out the [scan popup](setup_scan_popup.html) - it allows you to open a word in the dictioanry with a single click.
+If you're on Linux, also try out the [scan popup](setup_scan_popup.md) - it allows you to open a word in the dictioanry with a single click.
 
