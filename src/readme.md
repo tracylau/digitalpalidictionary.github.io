@@ -1,6 +1,6 @@
 View the file in browser
 
-mdbook watch -o
+`mdbook watch -o`
 
 Make edits, commit and push to ’source’ branch.
 
