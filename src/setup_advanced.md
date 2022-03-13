@@ -1,5 +1,11 @@
 # Setup Advanced Features in GoldenDict
 
+## Ctrl-click to open a word in a new tab
+
+Clicking on any word opens it in the same tab. Ctrl-clicking on any word opens it in a new tab, allowing you to browse multiple words at once. 
+
+![image](pics/advanced-setup/tabs.png)
+
 ## Adding other dictionaries
 
 To add more dictionaries to GoldenDict, simply download any dictionary in a GoldenDict compatible format (Stardict, Babylon, Lingoes, etc.) and add that folder to your GoldenDict folder `Documents/GoldenDict`.

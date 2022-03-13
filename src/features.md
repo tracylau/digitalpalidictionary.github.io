@@ -56,13 +56,22 @@ This information is unique to DPD and is based on a detailed study of the Pāḷ
 
 ## Compound Family 
 
-Click the compound family button to see a collection of all the compounds which contain a particular word.
+Click the **compound family** button to see a collection of all the compounds which contain a particular word.
 
 ![compound family](pics/features/compound%20family.png)
 
 If the headword itself is a compound, all compound families of the component words will be listed.
 
 ![compound family2](pics/features/compound%20family2.png)
+
+## Word Frequency
+
+Click the **frequency** button to see a heat map of where & how often a word can be found in the Chaṭṭha Saṅgāyana corpus.
+
+![image](pics/features/frequency.png)
+
+[Click here](frequency.md) for more detailed information on this interesting feature. 
+
 
 ## Roots Dictionary
 

@@ -2,6 +2,7 @@
 
 [Home](titlepage.md)
 [Features](features.md)
+[Word Frequency](frequency.md)
 
 -----------
 
