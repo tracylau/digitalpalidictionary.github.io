@@ -6,23 +6,27 @@ Clicking the **frequency** button will give you an instant overview of where & h
 
 The **numbers** represent **exact matches** of a **headword and all its inflected forms** in a section of the corpus. 
 
+For **headwords in a specific case** (e.g. masc locative singular, optative reflexive 3rd plural) only the **exact headword** will be matched, not any other related inflections.
+
 The **colours** are a visual representation of the same data - dark blue represents higher word frequency, while the lighter blues show a lower number of occurences.
 
 A **dash** "-" indicates 0 instances of a word in that section.
 
 **Partial matches**, as found in compounds and in sandhi, are **not counted**.
 
-For **headwords in a specific case**, e.g. masc locative singular, optative reflexive 3rd plural, only the **exact headword** will be matched, not any other related inflections.
+All matching inflections are counted, resulting in false positives for words with with identical inflections, e.g. assu ("tear") and assu ("they could be").
 
-Here follows an explanation of the subdivision of the Chaṭṭha Saṅgāyana corpus as represented here. 
+Hopefully these word frequency maps can provide an easily accessible snapshot of the development of Pāḷi words and associated concepts over the course of time.
 
 ---
+
+Here follows an explanation of some of the quirks of the Chaṭṭha Saṅgāyana corpus subdivision as represented here. 
 
 ## Vinaya Ṭīkā
 
 ![image](pics/frequency/vinaya-ṭīkā.png)
 
-Vinaya Ṭīkā (sub-commentaries) contain much overlapping material which cannot be easily assigned to a specific book of the Vinaya, so all Vinaya Ṭīkā are listed under Vinaya Pārājika.
+Some of the Vinaya Ṭīkā (sub-commentaries) contain overlapping material which cannot be easily assigned to a specific book of the Vinaya, so all Vinaya Ṭīkā are listed under Vinaya Pārājika.
 
 This section includes Sāratthadīpanī-ṭīkā, Dvemātikāpāḷi, Vinayasaṅgaha-aṭṭhakathā, Vajirabuddhi-ṭīkā, Vimativinodanī-ṭīkā, Vinayālaṅkāra-ṭīkā, Kaṅkhāvitaraṇīpurāṇa-ṭīkā, Vinayavinicchaya-uttaravinicchaya, Vinayavinicchaya-ṭīkā, Pācityādiyojanāpāḷi and Khuddasikkhā-mūlasikkhā.
 
@@ -82,4 +86,3 @@ The Visuddhimagga is included in the Aññā section under *aṭṭhakathā*, an
 
 ---
 
-Hopefully these word frequency maps can be an easily accessible starting point to a deeper investigation into the development of language and ideas over the course of Buddhism's long history.
