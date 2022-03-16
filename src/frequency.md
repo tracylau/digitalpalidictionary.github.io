@@ -4,19 +4,24 @@ Clicking the **frequency** button will give you an instant overview of where & h
 
 ![image](pics/frequency/frequency-overview.png)
 
+These word frequency maps can provide an instantly accessible snapshot of word usage in different strata of texts, and a entry point for further investigation into how Pāḷi words and associated concepts developed over the course of time.
+
+### Matches
+
 The **numbers** represent **exact matches** of a **headword and all its inflected forms** in a section of the corpus. 
 
-For **headwords in a specific case** (e.g. masc locative singular, optative reflexive 3rd plural) only the **exact headword** will be matched, not any other related inflections.
+For **headwords in a specific case** (e.g. masc locative singular, optative reflexive 3rd plural) only the **exact headword** will be matched, not any other related inflections. 
 
 The **colours** are a visual representation of the same data - dark blue represents higher word frequency, while the lighter blues show a lower number of occurences.
 
-A **dash** "-" indicates 0 instances of a word in that section.
-
+### Non-matches
 **Partial matches**, as found in compounds and in sandhi, are **not counted**.
 
-All matching inflections are counted, resulting in false positives for words with with identical inflections, e.g. assu ("tear") and assu ("they could be").
+A **dash** "-" indicates 0 instances of a word in that section.
 
-Hopefully these word frequency maps can provide an easily accessible snapshot of the development of Pāḷi words and associated concepts over the course of time.
+### False Positives
+
+All matching inflections are counted, resulting in false positives for words with with identical inflections, e.g. assu (nt nom sg of "tear") and assu (opt 3rd pl of "they could be").
 
 ---
 

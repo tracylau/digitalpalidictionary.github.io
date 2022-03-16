@@ -1,6 +1,6 @@
 # Features
 
-## DPD recognises 1.8 million inflected forms of Pāḷi words
+## DPD recognises 1.1 million unique inflected forms of Pāḷi words
 
 When you selct on a word in a Pāḷi text and press the hotkey, DPD automatically recognises all the headwords to which that inflected form belongs. For example, clicking on _takkarassa_ will automatically open _takkara_. 
 
@@ -102,6 +102,14 @@ One of the most important aspects of DPD is the feedback loop. When you spot a m
 ![feedback](pics/features/feedback.png)
 
 It generally takes less than a minute to log an error, and helps to improve the quality of the dictionary for everyone who uses it.
+
+## Wikipedia links
+
+All flowers, trees, plants and unusual animals contain a link to a Wikipedia article for more detailed information on the topic. Indian plants are often used in early Buddhist similes, and a picture is worth a thousand words.
+
+![image](pics/features/wiki.png)
+
+
 
 ## Fonts
 
