@@ -1,5 +1,15 @@
 # Install GoldenDict on Windows
 
+## In Brief
+
+1. download the latest version of DPD [here](https://github.com/digitalpalidictionary/digitalpalidictionary/releases)
+2. install version 1.5 of [GoldenDict](https://sourceforge.net/projects/goldendict/files/early%20access%20builds/GoldenDict-1.5.0-RC2-372-gc3ff15f-Install.exe/download)
+3. in settings, point GoldenDict to the DPD folder.
+
+Below are detailed *anupubba* instructions. 
+
+## Download DPD
+
 First things first, download the latest version of Digital Pāḷi Dictionary from [Github](https://github.com/digitalpalidictionary/digitalpalidictionary/releases).
 
 ## Make a GoldenDict folder
