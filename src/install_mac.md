@@ -4,7 +4,7 @@
 
 1. download the latest version of DPD [here](https://github.com/digitalpalidictionary/digitalpalidictionary/releases)
 2. install version 1.5 of [GoldenDict](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Mac-OS-X).
-3. in settings, point GoldenDict at the DPD folder.
+3. in settings, direct GoldenDict to the DPD folder.
 
 Below are detailed *anupubba* instructions. 
 

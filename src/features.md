@@ -87,9 +87,25 @@ and detailed lists of all the root families.
 
 ![roots dict3](pics/features/roots%20dict3.png)
 
-## Sinhala and Devanagari Scripts
+## English to Pāḷi Dictionary
 
-Good news for those who read Pāḷi in Sinhala or Devanagara scripts, DPD recognises all inflected forms in both those scripts.
+You can now access the English to Pāḷi dictionary simply by **clicking on any English word** in GoldenDict. That brings up a list of __exact__ matches.
+
+![english to pāḷi](pics/features/eng-to-pali.png)
+
+Or you can use the **search bar** to find a word, phrase or idiom. The dropdown list will display all possible options.
+
+![english to pāḷi dropdown](pics/features/eng-to-pali-dropdown.png)
+
+Or you can highlight any word, phrase or idiom and use the **hotkey**.
+
+![english to pāḷi dropdown](pics/features/eng-to-pali-hotkey.png)
+
+This feature is designed for beginners struggling with English to Pāḷi exercises, and more advanced students learning to communicate in Pāḷi. 
+
+## Sinhala, Devanagari and Thai Scripts
+
+Good news for those who read Pāḷi in Sinhala, Devanagara or Thai scripts, DPD recognises all inflected forms in all three of these scripts.
 
 ![devanagari](pics/features/devanagari.png)
 
