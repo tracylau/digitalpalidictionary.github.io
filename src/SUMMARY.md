@@ -20,5 +20,9 @@
 
 -----------
 
+[Changelog](changelog.md)
+
+-----------
+
 [Feedback Form](feedback_form.md)
 [Contact](contact.md)
