@@ -1,4 +1,14 @@
 # Changelog
+
+## 2022-05-15 
+
+- 57 478 headwords
+- 1 176 522 unique inflected forms
+- 25 851 complete entries
+- 733 roots
+- 2 602 root families
+- Corrections and additions based on user feedback.
+
 ## 2022-04-16 
 
 -  56 729 headwords, 1 153 773 unique inflected forms, 25 343 complete entries, 729 roots, 2 568 root families
