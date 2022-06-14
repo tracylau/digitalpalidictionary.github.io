@@ -8,7 +8,7 @@ Here's a handy guide to some of the [features](features.md) available in DPD.
 
 <!-- You can always download the latest version of DPD from [Github](https://github.com/digitalpalidictionary/digitalpalidictionary/releases). -->
 
-Firstly, you need to get GoldenDict installed and setup on your machine ([Win](install_win.md) / [Mac](install_mac.md) / [Linux](install_linux.md) / [Android](install_android_mdict.md)) or [update](update.md) once a month if you're already installed.
+Firstly, you need to get GoldenDict installed and setup on your machine ([Win](install_win.md) / [Mac](install_mac.md) / [iOS](install_ios.md) / [Linux](install_linux.md) / [Android](install_android_mdict.md)) or [update](update.md) once a month if you're already installed.
 
 Next, you should really [configure the hotkey](setup_hotkey.md) if you're on Windows or Mac, or try the [scan-popup](setup_scan_popup.md) if you're on Linux. This will allow you to click on any word in any Pāḷi text, and automatically open it in GoldenDict.
 
