@@ -1,9 +1,11 @@
 # Install GoldenDict on Android
 
+GoldenDict on Android can be accessed by highlighting a word in a text and clicking **Share** in the conext menu. It also has a **dark mode**. 
+
 ## In Brief
 
 1. download the latest version of DPD [here](https://github.com/digitalpalidictionary/digitalpalidictionary/releases)
-2. install the software from [Google Play Store](https://play.google.com/store/apps/details?id=mobi.goldendict.android.free)
+2. install GoldenDict from the [Google Play Store](https://play.google.com/store/apps/details?id=mobi.goldendict.android.free)
 3. copy DPD to the GoldenDict folder
 
 Below are detailed *anupubba* instructions. 

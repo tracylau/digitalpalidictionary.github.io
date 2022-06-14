@@ -1,5 +1,27 @@
 # Features
 
+## DPD contains five different dictionaries
+
+Pāḷi to English Dictionary (Blue) \
+
+![pali2english](pics/features/1pali2english.png)
+
+Pāḷi Roots Dictionary (Orange) \
+
+![pali2english](pics/features/2rootsdict.png)
+
+English to Pāḷi Dictionary (Purple) \
+
+![english2pali](pics/features/3english2pali.png)
+
+Compound Deconstruction Dictionary (Sand) \
+
+![compdeconstruction](pics/features/4sandhisplitter.png)
+
+Abbreviations and Help Dictionary (Green) \
+
+![helpdict](pics/features/5helpabbreviations.png)
+
 ## DPD recognises 1.1 million unique inflected forms of Pāḷi words
 
 When you selct on a word in a Pāḷi text and press the hotkey, DPD automatically recognises all the headwords to which that inflected form belongs. For example, clicking on _takkarassa_ will automatically open _takkara_. 
@@ -135,4 +157,4 @@ If you prefer a sans-serif font, please install [Noto Sans](https://fonts.google
 ----------------------
 
 
-Enough in theory, here's how to get GoldenDict installed and setup on your machine ([Win](install_win.md) / [Mac](install_mac.md) / [Linux](install_linux.md) / [Android](install_android.md)) or [update](update.md) once a month if you're already installed.
+Enough in theory, here's how to get GoldenDict installed and setup on your machine ([Win](install_win.md) / [Mac](install_mac.md) / [Linux](install_linux.md) / [Android](install_android_mdict.md)) or [update](update.md) once a month if you're already installed.
