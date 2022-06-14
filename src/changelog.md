@@ -1,12 +1,15 @@
 # Changelog
 
+## 2022-06-14
+
+- 59 066 headwords, 1 130 563 unique inflected forms, 25 880 complete entries, 733 roots, 2 659 root families
+- MDict version for [iOS](https://digitalpalidictionary.github.io/install_ios.html) and [Android](https://digitalpalidictionary.github.io/install_android_mdict.html)
+- Added compound deconstruction and sandhi splitting dictionary. Tested with MN 51-100 mūla and aṭṭhakathā
+- Corrections and additions based on user feedback.
+
 ## 2022-05-15 
 
-- 57 478 headwords
-- 1 176 522 unique inflected forms
-- 25 851 complete entries
-- 733 roots
-- 2 602 root families
+- 57 478 headwords, 1 176 522 unique inflected forms, 25 851 complete entries, 733 roots, 2 602 root families
 - Corrections and additions based on user feedback.
 
 ## 2022-04-16 
