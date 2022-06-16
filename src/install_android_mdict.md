@@ -27,7 +27,7 @@ Download and install MDict from the [Google Play Store](https://play.google.com/
 Using any file manager, make an **MDict/doc** folder on your SD card. \
 (That's a folder called **MDict** and a subfolder called **doc**.)
 
-**Copy** dpd.mdx file into the **MDict/doc** fodler. 
+**Copy** dpd.mdx file into the **MDict/doc** folder. 
 
 ![mdict folder](pics/mdict/folder.jpg)
 
