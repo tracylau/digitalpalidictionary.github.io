@@ -24,7 +24,7 @@ Abbreviations and Help Dictionary (Green) \
 
 ## DPD recognises 1.1 million unique inflected forms of Pāḷi words
 
-When you selct on a word in a Pāḷi text and press the hotkey, DPD automatically recognises all the headwords to which that inflected form belongs. For example, clicking on _takkarassa_ will automatically open _takkara_. 
+When you select on a word in a Pāḷi text and press the hotkey, DPD automatically recognizes all the headwords to which that inflected form belongs. For example, clicking on _takkarassa_ will automatically open _takkara_. 
 
 ![inflected forms](pics/features/inflected%20forms.png)
 
@@ -46,7 +46,7 @@ Click the **grammar** button to get more more detailed grammatical information a
 
 ![grammar](pics/features/grammar.png)
 
-This includes root information, detailed construction, derivative, phonetic changes, compound, antonyms, synonyms, commentarial glosses, non-Indo-Aryan cogantes, Sanskrit cogantes and Sanskrit root.
+This includes root information, detailed construction, derivative, phonetic changes, compound, antonyms, synonyms, commentarial glosses, non-Indo-Aryan cognates, Sanskrit cognates and Sanskrit root.
 
 ![grammar2](pics/features/grammar2.png)
 
@@ -127,7 +127,7 @@ This feature is designed for beginners struggling with English to Pāḷi exerci
 
 ## Sinhala, Devanagari and Thai Scripts
 
-Good news for those who read Pāḷi in Sinhala, Devanagara or Thai scripts, DPD recognises all inflected forms in all three of these scripts.
+Good news for those who read Pāḷi in Sinhala, Devanagari or Thai scripts, DPD recognizes all inflected forms in all three of these scripts.
 
 ![devanagari](pics/features/devanagari.png)
 
@@ -135,7 +135,7 @@ Transliteration is based on [Aksharamukha Script Converter](https://aksharamukha
 
 ## Feedback
 
-One of the most important aspects of DPD is the feedback loop. When you spot a mistake, please click the link to correct it. That opens up a Google form which is prefilled with the headword. 
+One of the most important aspects of DPD is the feedback loop. When you spot a mistake, please click the link to correct it. That opens up a Google form which is pre-filled with the headword. 
 
 ![feedback](pics/features/feedback.png)
 
