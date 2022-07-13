@@ -1,5 +1,14 @@
 # Changelog
 
+## 2022-07-13
+
+- 62 816 headwords, 1 211 561 unique inflected forms, 25 883 complete entries, 736 roots, 2 711 root families, 14 639 deconstructed compounds
+- Added DPD Grammar Dictionary [more info here](https://digitalpalidictionary.github.io/grammardict.html) 
+- Improvements to Sandhi Splitting Algorithm [more info here](https://digitalpalidictionary.github.io/sandhi.html) 
+- Updates to DPD MDict for [iOS](https://digitalpalidictionary.github.io/install_ios.html) and [Android](https://digitalpalidictionary.github.io/install_android_mdict.html)
+- 100% dictionary recognition of words in Dīgha Nikāya Mūla Books 1-3, Majjhima Nikāya Mūla Book 2 and Aṭṭhakathā Book 2
+- Many corrections and additions based on user feedback.
+
 ## 2022-06-14
 
 - 59 066 headwords, 1 130 563 unique inflected forms, 25 880 complete entries, 733 roots, 2 659 root families
