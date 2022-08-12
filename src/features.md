@@ -10,7 +10,7 @@
 
 ![pali2english](pics/features/2rootsdict.png) \
 
-for more info [click here](rootdic.md)
+for more info [click here](rootdict.md)
 
 #### English to Pāḷi Dictionary (Purple)
 
