@@ -1,5 +1,17 @@
 # Changelog
 
+## 2022-08-12
+
+- 64 141 headwords, 25 904 complete, 9 207 partially complete, 29 030 incomplete entries
+- 742 roots, 2 786 root families, 26 798 words derived from roots
+- 16 213 deconstructed compounds, 1 239 710 unique inflected forms
+- Added Root Matrix. [more info here](https://digitalpalidictionary.github.io/rootdict.html#root-matrix)
+- 100% dictionary recognition of words in Dīgha Nikāya Mūla, Majjhima Nikāya Mūla and MN2 Aṭṭhakathā.
+- Changed word frequency generation process to reduce file size 
+- Inflection table words not in CST are grayed out.
+- Stylist changes to html of roots families, compound families, sets, inflection tables, frequency tables
+- Many corrections and additions based on user feedback
+
 ## 2022-07-13
 
 - 62 816 headwords, 1 211 561 unique inflected forms, 25 883 complete entries, 736 roots, 2 711 root families, 14 639 deconstructed compounds
