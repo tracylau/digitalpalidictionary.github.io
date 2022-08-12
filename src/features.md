@@ -2,23 +2,25 @@
 
 ## DPD contains five different dictionaries
 
-Pāḷi to English Dictionary (Blue) \
+#### Pāḷi to English Dictionary (Blue)
 
 ![pali2english](pics/features/1pali2english.png)
 
-Pāḷi Roots Dictionary (Orange) \
+#### Pāḷi Roots Dictionary (Orange)
 
-![pali2english](pics/features/2rootsdict.png)
+![pali2english](pics/features/2rootsdict.png) \
 
-English to Pāḷi Dictionary (Purple) \
+for more info [click here](rootdic.md)
+
+#### English to Pāḷi Dictionary (Purple)
 
 ![english2pali](pics/features/3english2pali.png)
 
-Compound Deconstruction Dictionary (Sand) \
+#### Compound Deconstruction Dictionary (Sand)
 
 ![compdeconstruction](pics/features/4sandhisplitter.png)
 
-Abbreviations and Help Dictionary (Green) \
+#### Abbreviations and Help Dictionary (Green)
 
 ![helpdict](pics/features/5helpabbreviations.png)
 
@@ -94,20 +96,6 @@ Click the **frequency** button to see a heat map of where & how often a word can
 
 [Click here](frequency.md) for more detailed information on this interesting feature. 
 
-
-## Roots Dictionary
-
-There is a detailed **Pāḷi Roots Dictionary** included in DPD. Clicking on any root will take you to a special page containing all the root information.
-
-![roots dict1](pics/features/roots%20dict1.png)
-
-There you will find comprehensive information from classical grammars, 
-
-![roots dict2](pics/features/roots%20dict2.png)
-
-and detailed lists of all the root families.
-
-![roots dict3](pics/features/roots%20dict3.png)
 
 ## English to Pāḷi Dictionary
 

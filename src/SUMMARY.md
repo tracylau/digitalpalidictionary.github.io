@@ -2,6 +2,7 @@
 
 [Home](titlepage.md)
 [Features](features.md)
+[Roots Dictionary](rootdict.md)
 [Word Frequency](frequency.md)
 [Sandhi Splitting](sandhi.md)
 [Grammar Dictionary](grammardict.md)
