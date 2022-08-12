@@ -2,7 +2,7 @@
 
 There is a detailed **Pāḷi Roots Dictionary** included in DPD. Clicking on any root will take you to a special page containing all the root information.
 
-![roots dict1](pics/rootsdict/roots%20dict1.png)
+![roots dict1](pics/rootsdict/rootsdict.png)
 
 ### Root Info
 
