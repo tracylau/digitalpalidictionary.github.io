@@ -151,7 +151,7 @@ As DPD is a work in progress, it is useful to know how complete a word's data is
 
 ![degree of completion2](../pics/features/../../src/pics/features/degree_of_completion2.png)
 
-<span style='color: gray'>●</span>  a gray dor means the word data is partially complete with a meaning in context and grammatical construction, but minimal other information.
+<span style='color: gray'>●</span>  a gray dot means the word data is partially complete with a meaning in context and grammatical construction, but minimal other information.
 
 ![degree of completion3](../pics/features/../../src/pics/features/degree_of_completion3.png)
 

@@ -1,5 +1,16 @@
 # Changelog
 
+## 2022-09-10
+
+- 65 077 headwords, 25 919 complete, 10 211 partially complete, 28 947 incomplete entries
+- 741 roots, 2 807 root families, 27 122 words derived from roots
+- 17 303 deconstructed compounds, 1 264 558 unique inflected forms
+- 1 144 606 cells of Pāḷi data
+- 100% dictionary recognition of words from Dīgha Nikāya upto Saṃyutta Nikāya Sakkasaṃyuttaṃ.
+- Added all variant readings and variant spellings found in Sutta Central texts from Dīgha Nikāya upto Saṃyutta Nikāya Sakkasaṃyuttaṃ.
+- Added system to show degree of completion of each word's data. [more info here](https://digitalpalidictionary.github.io/features.html#word-datas-degree-of-completion).
+- Many corrections and additions based on user feedback.
+
 ## 2022-08-12
 
 - 64 141 headwords, 25 904 complete, 9 207 partially complete, 29 030 incomplete entries
