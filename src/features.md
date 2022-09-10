@@ -145,15 +145,15 @@ If you prefer a sans-serif font, please install [Noto Sans](https://fonts.google
 
 As DPD is a work in progress, it is useful to know how complete a word's data is. This is indicated by a small dot after the entry. 
 
-![degree of completion](../pics/features/../../src/pics/features/degree_of_completion.png)
+![degree of completion](../pics/features/../../src/pics/features/doc1.png)
 
 <span style='color:#cfcfcf'>●</span> a light dot means the word data is relatively complete with contextual meaning, grammar, sutta example and other relevant information. 
 
-![degree of completion2](../pics/features/../../src/pics/features/degree_of_completion2.png)
+![degree of completion2](../pics/features/../../src/pics/features/doc2.png)
 
 <span style='color: gray'>●</span>  a gray dot means the word data is partially complete with a meaning in context and grammatical construction, but minimal other information.
 
-![degree of completion3](../pics/features/../../src/pics/features/degree_of_completion3.png)
+![degree of completion3](../pics/features/../../src/pics/features/doc3.png)
 
 <span style='color: #313131'>●</span> a dark dot means the word data is still under construction with only an inflection table, frequency table and very basic information.
 
