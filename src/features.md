@@ -141,6 +141,21 @@ All flowers, trees, plants and unusual animals contain a link to a Wikipedia art
 
 If you prefer a sans-serif font, please install [Noto Sans](https://fonts.google.com/noto/specimen/Noto+Sans), it works well with Pāḷi diacritics. If you prefer a serif font, please install [Deja Vu Serif](https://www.fontsquirrel.com/fonts/dejavu-serif), or [Verajja Serif](https://en.m.fontke.com/font/10186264/), a specially created font for Pāḷi text.
 
+## Word Data's Degree of Completion
+
+As DPD is a work in progress, it is useful to know how complete a word's data is. This is indicated by a small dot after the entry. 
+
+![degree of completion](../pics/features/../../src/pics/features/degree_of_completion.png)
+
+<span style='color:#cfcfcf'>●</span> a light dot means the word data is relatively complete with contextual meaning, grammar, sutta example and other relevant information. 
+
+![degree of completion2](../pics/features/../../src/pics/features/degree_of_completion2.png)
+
+<span style='color: gray'>●</span>  a gray dor means the word data is partially complete with a meaning in context and grammatical construction, but minimal other information.
+
+![degree of completion3](../pics/features/../../src/pics/features/degree_of_completion3.png)
+
+<span style='color: #313131'>●</span> a dark dot means the word data is still under construction with only an inflection table, frequency table and very basic information.
 
 ----------------------
 
