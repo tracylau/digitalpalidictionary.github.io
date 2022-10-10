@@ -1,5 +1,14 @@
 # Changelog
 
+## 2022-10-10
+- 66 423 headwords, 25 961 complete, 11 808 partially complete, 28 654 incomplete entries
+- 743 roots, 2 820 root families, 27 612 words derived from roots
+- 20 825 deconstructed compounds, 1 289 793 unique inflected forms
+- 1 169 282 cells of Pāḷi data
+- 100% dictionary recognition in Vinaya Book 1 Pārājikapāḷi
+- removed extremely long words (> 30) from compound families
+- Many corrections and additions based on user feedback.
+
 ## 2022-09-10
 
 - 65 077 headwords, 25 919 complete, 10 211 partially complete, 28 947 incomplete entries
