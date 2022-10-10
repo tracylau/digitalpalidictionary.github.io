@@ -7,6 +7,7 @@
 - 1 169 282 cells of Pāḷi data
 - 100% dictionary recognition in Vinaya Book 1 Pārājikapāḷi
 - removed extremely long words (> 30) from compound families
+- fixed declensions feedback link
 - Many corrections and additions based on user feedback.
 
 ## 2022-09-10
