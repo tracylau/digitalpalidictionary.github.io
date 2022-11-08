@@ -30,15 +30,15 @@ When you select on a word in a Pāḷi text and press the hotkey, DPD automatica
 
 ![inflected forms](pics/features/inflected%20forms.png)
 
-## 100% Dictionary recognition
+## 100% Dictionary recognition in these books
 
-DPD recognizes all words, both in Chaṭṭha Saṅgāyana Tipiṭaka and Mahāsaṅgīti edition on Sutta Central, including compounds and sandhis in the following books:
+DPD recognizes all words, both in Chaṭṭha Saṅgāyana Tipiṭaka and Mahāsaṅgīti edition on Sutta Central, including all compounds and sandhis, in the following books:
 
 **Vinaya**: Pārājikapāḷi , Pācittiyapāḷi \
 **Sutta**: Dīgha Nikāya, Majjhima Nikāya, Saṃyutta Nikāya Books 1-3 \
 **Up Next**: Saṃyutta Nikāya Books 4 & 5
 
-## Click on everything!
+## Click on everything
 
 One of the great features about GoldenDict is the ability to click on any word to open up the definition of that word. This creates an infinite web of language discovery.
 
