@@ -1,9 +1,20 @@
 # Changelog
 
+## 2022-11-08
+- 68 088 headwords, 25 971 complete, 13 529 partially complete, 28 588 incomplete entries
+- 742 roots, 2 833 root families, 27 886 words derived from roots
+- 20 677 deconstructed compounds
+- 1 342 860 unique inflected forms
+- 1 193 219 cells of Pāḷi data
+- 100% dictionary recognition in Pācittiyapāḷi and Saṃyutta Nikāya book 3
+- Improved recognition of Sinhala, Devanagari and Thai scripts. 
+- Many corrections and additions based on user feedback.
+
 ## 2022-10-10
 - 66 423 headwords, 25 961 complete, 11 808 partially complete, 28 654 incomplete entries
 - 743 roots, 2 820 root families, 27 612 words derived from roots
-- 20 825 deconstructed compounds, 1 289 793 unique inflected forms
+- 20 825 deconstructed compounds
+- 1 289 793 unique inflected forms
 - 1 169 282 cells of Pāḷi data
 - 100% dictionary recognition in Vinaya Book 1 Pārājikapāḷi
 - removed extremely long words (> 30) from compound families
@@ -14,7 +25,8 @@
 
 - 65 077 headwords, 25 919 complete, 10 211 partially complete, 28 947 incomplete entries
 - 741 roots, 2 807 root families, 27 122 words derived from roots
-- 17 303 deconstructed compounds, 1 264 558 unique inflected forms
+- 17 303 deconstructed compounds
+- 1 264 558 unique inflected forms
 - 1 144 606 cells of Pāḷi data
 - 100% dictionary recognition of words from Dīgha Nikāya upto Saṃyutta Nikāya Sakkasaṃyuttaṃ.
 - Added all variant readings and variant spellings found in Sutta Central texts from Dīgha Nikāya upto Saṃyutta Nikāya Sakkasaṃyuttaṃ.
@@ -25,7 +37,8 @@
 
 - 64 141 headwords, 25 904 complete, 9 207 partially complete, 29 030 incomplete entries
 - 742 roots, 2 786 root families, 26 798 words derived from roots
-- 16 213 deconstructed compounds, 1 239 710 unique inflected forms
+- 16 213 deconstructed compounds
+- 1 239 710 unique inflected forms
 - Added Root Matrix. [more info here](https://digitalpalidictionary.github.io/rootdict.html#root-matrix)
 - 100% dictionary recognition of words in Dīgha Nikāya Mūla, Majjhima Nikāya Mūla and MN2 Aṭṭhakathā.
 - Changed word frequency generation process to reduce file size 
