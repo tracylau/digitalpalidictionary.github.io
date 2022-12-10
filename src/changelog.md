@@ -1,5 +1,16 @@
 # Changelog
 
+## 2022-12-08
+- 69 322 headwords, 25 997 complete, 14 886 partially complete, 28 439 incomplete entries
+- 743 roots, 2 845 root families, 28 140 words derived from roots
+- 22 031 deconstructed compounds 
+- 1 368 689 unique inflected forms
+- 1 213 274 cells of Pāḷi data
+- 100% dictionary recognition in Saṃyutta Nikāya books 4 & 5, Aṅguttara Nikāya Books 1 & 2
+- New categories added to Root Matrix (deno caus & pass)
+- Root Matrix now completed, [click here](https://digitalpalidictionary.github.io/rootdict.html?highlight=root%20matrix#root-matrix) for more info
+- Many corrections and additions based on user feedback.
+
 ## 2022-11-08
 - 68 088 headwords, 25 971 complete, 13 529 partially complete, 28 588 incomplete entries
 - 742 roots, 2 833 root families, 27 886 words derived from roots
