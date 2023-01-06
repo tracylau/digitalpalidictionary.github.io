@@ -1,6 +1,6 @@
 # DPD Bibliography
 
-(An incomplete bibliography)
+(An incomplete bibliography, to be updated)
 
 ## Pāḷi Dictionaries
 
@@ -51,7 +51,7 @@ Digital Pāli Reader, [https://www.digitalpalireader.online/](https://www.digita
 
 Github, [https://github.com/](https://github.com/)
 
-Sanskrit Grammarian, [http://localhost/Heritage_Platform/DICO/grammar.fr.html](http://localhost/Heritage_Platform/DICO/grammar.fr.html)
+Sanskrit Grammarian, [https://sanskrit.inria.fr/DICO/grammar.fr.html](https://sanskrit.inria.fr/DICO/grammar.fr.html)
 
 Sutta Central, [https://suttacentral.net/](https://suttacentral.net/)
 
