@@ -86,6 +86,12 @@ Click the **root family** button to see all words which have the same prefix + r
 
 This information is unique to DPD and is based on a detailed study of the Pāḷi and Sanskrit root system. It's great for getting to know the nuanced range of meanings that a root + prefix combination can display.
 
+## Word Family
+
+Click the **word family** button to see all related words which are not derived from a root, created from the primary word using prefixes and suffixes.
+
+![word family](pics/features/word_family.png)
+
 ## Compound Family 
 
 Click the **compound family** button to see a collection of all the compounds which contain a particular word.
