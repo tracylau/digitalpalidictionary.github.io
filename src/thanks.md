@@ -16,7 +16,7 @@ Prof. Brian Levman, for detailed grammatical analysis of Dīgha Nikāya and Ther
 
 Prof. Aleix Ruiz Falqués, for internet classes on the classical Pāḷi grammars
 
-Sumukha, for the technical support helpline during the embryonic stages
+Sumukha, for the Python technical support helpline 
 
 Inka Kendzia, for paying the internet bill
 

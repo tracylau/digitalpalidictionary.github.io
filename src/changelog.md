@@ -1,5 +1,18 @@
 # Changelog
 
+## 2023-01-06
+- 70 015 headwords, 26 004 complete, 15 648 partially complete, 28 363 incomplete entries
+- 742 roots, 2 871 root families, 28 476 words derived from roots
+- 14 107 deconstructed compounds
+- 1 414 089 unique inflected forms
+- 1 229 213 cells of Pāḷi data
+- 100% dictionary recognition up to and including [Aṅguttara Nikāya Book 3](https://digitalpalidictionary.github.io/features.html#100-dictionary-recognition-in-these-books)
+- New button called Word Families, [more informtation here](https://digitalpalidictionary.github.io/features.html#word-family)
+- Added [Bibliography](https://digitalpalidictionary.github.io/bibliography.html) and [Thanks](https://digitalpalidictionary.github.io/thanks.html) on the website and in the dictionary
+- Updated icons for degree of completition, more info [here](https://digitalpalidictionary.github.io/features.html#word-datas-degree-of-completion)
+- Minor aesthetic changes to lists
+- Many corrections and additions based on user feedback.
+
 ## 2022-12-08
 - 69 322 headwords, 25 997 complete, 14 886 partially complete, 28 439 incomplete entries
 - 743 roots, 2 845 root families, 28 140 words derived from roots
