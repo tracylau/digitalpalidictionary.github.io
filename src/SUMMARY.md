@@ -29,5 +29,7 @@
 
 -----------
 
+[Bibliography](bibliography.md)
+[Thanks](thanks.md)
 [Feedback Form](feedback_form.md)
 [Contact](contact.md)
