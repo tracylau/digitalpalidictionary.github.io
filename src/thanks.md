@@ -12,7 +12,7 @@ Ven. Devamitta, for thousands of small corrections and suggestions for improveme
 
 Ven. Gambhīro, for the technical expertise, and the GoldenDict exporter that started this whole chain of events
 
-Prof. Brian Levman, for detailed grammatical analysis of Dīgha Nikāya and Theragāthā
+Prof. Bryan Levman, for detailed grammatical analysis of Dīgha Nikāya and Theragāthā
 
 Prof. Aleix Ruiz Falqués, for internet classes on the classical Pāḷi grammars
 
