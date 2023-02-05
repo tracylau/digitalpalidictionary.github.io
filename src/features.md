@@ -58,6 +58,24 @@ If words with multiple meanings are derived from different sources, their number
 
 In the example above, 1.1 and 1.2 both are related to Sanskrit *śara* , while 2.1 is derived from the root √sar (to make sound), Sansksrit *svara*.
 
+## Word Data's Degree of Completion
+
+As DPD is a work in progress, it is useful to know how complete a word's data is. This is indicated by a gray icon (<span style='color:gray'>✓~✗</span>) after the entry.  
+
+![complete](pics/features/complete_fin.png)
+
+<span style='color:gray'>✓</span> a gray tick means the word data is mostly complete with contextual meaning, grammar, sutta example and other relevant information. 
+
+![half_complete](pics/features/complete_half.png)
+
+<span style='color:gray'>~</span>  a gray dash means the word data is partially complete with a meaning in context and grammatical construction, but minimal other information.
+
+![half_complete](pics/features/complete_no.png)
+
+<span style='color:gray'>✗</span> a gray cross means the word data is still under construction with only an inflection table, frequency table and very basic information.
+
+
+
 ## Grammar
 
 Click the **grammar** button to get more more detailed grammatical information about the word.
@@ -162,22 +180,6 @@ All flowers, trees, plants and unusual animals contain a link to a Wikipedia art
 ## Fonts
 
 If you prefer a sans-serif font, please install [Noto Sans](https://fonts.google.com/noto/specimen/Noto+Sans), it works well with Pāḷi diacritics. If you prefer a serif font, please install [Deja Vu Serif](https://www.fontsquirrel.com/fonts/dejavu-serif), or [Verajja Serif](https://en.m.fontke.com/font/10186264/), a specially created font for Pāḷi text.
-
-## Word Data's Degree of Completion
-
-As DPD is a work in progress, it is useful to know how complete a word's data is. This is indicated by a gray icon (<span style='color:gray'>✓~✗</span>) after the entry.  
-
-![complete](pics/features/complete_fin.png)
-
-<span style='color:gray'>✓</span> a gray tick means the word data is mostly complete with contextual meaning, grammar, sutta example and other relevant information. 
-
-![half_complete](pics/features/complete_half.png)
-
-<span style='color:gray'>~</span>  a gray dash means the word data is partially complete with a meaning in context and grammatical construction, but minimal other information.
-
-![half_complete](pics/features/complete_no.png)
-
-<span style='color:gray'>✗</span> a gray cross means the word data is still under construction with only an inflection table, frequency table and very basic information.
 
 
 ----------------------
