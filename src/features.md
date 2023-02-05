@@ -35,8 +35,8 @@ When you select on a word in a Pāḷi text and press the hotkey, DPD automatica
 DPD recognizes all words, both in Chaṭṭha Saṅgāyana Tipiṭaka and Mahāsaṅgīti edition on Sutta Central, including all compounds and sandhis, in the following books:
 
 **Vinaya**: Pārājikapāḷi , Pācittiyapāḷi \
-**Sutta**: Dīgha Nikāya, Majjhima Nikāya, Saṃyutta Nikāya, Aṅguttara Nikāya Books 1, 2, 3 \
-**Up Next**: Aṅguttara Nikāya Books 4 & 5
+**Sutta**: Dīgha Nikāya, Majjhima Nikāya, Saṃyutta Nikāya, Aṅguttara Nikāya Books 1, 2, 3, 4, 5 \
+**Up Next**: Aṅguttara Nikāya Books 6 & 7
 
 ## Click on everything
 
