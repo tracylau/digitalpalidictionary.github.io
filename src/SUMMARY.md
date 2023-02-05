@@ -6,6 +6,7 @@
 [Word Frequency](frequency.md)
 [Sandhi Splitting](sandhi.md)
 [Grammar Dictionary](grammardict.md)
+[Tipitaka Pali Reader](tpr.md)
 
 -----------
 
