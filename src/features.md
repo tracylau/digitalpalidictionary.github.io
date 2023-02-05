@@ -50,6 +50,14 @@ All the important Pāḷi information is presented in **one compact line**, avai
 
 Essential information includes the part of speech, case which the word takes, English meaning, literal meaning and simplified construction.
 
+## Numbering System
+
+If words with multiple meanings are derived from different sources, their numbering will reflect that. 
+
+![renumerbing](pics/feature/../features/renumbering.png)
+
+In the example above, 1.1 and 1.2 both are related to Sanskrit *śara* , while 2.1 is derived from the root √sar (to make sound), Sansksrit *svara*.
+
 ## Grammar
 
 Click the **grammar** button to get more more detailed grammatical information about the word.
@@ -170,6 +178,7 @@ As DPD is a work in progress, it is useful to know how complete a word's data is
 ![half_complete](pics/features/complete_no.png)
 
 <span style='color:gray'>✗</span> a gray cross means the word data is still under construction with only an inflection table, frequency table and very basic information.
+
 
 ----------------------
 
