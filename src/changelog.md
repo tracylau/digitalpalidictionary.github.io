@@ -1,5 +1,19 @@
 # Changelog
 
+## 2023-02-05
+
+- 70 015 headwords, 26 004 complete, 15 648 partially complete, 28 363 incomplete entries
+- 742 roots, 2 871 root families, 28 476 words derived from roots
+- 14 107 deconstructed compounds
+- 1 414 089 unique inflected forms
+- 1 229 213 cells of Pāḷi data
+
+- 100% dictionary recognition up to and including [Aṅguttara Nikāya Book 5](https://digitalpalidictionary.github.io/features.html#100-dictionary-recognition-in-these-books)
+- Fixed bugs in MDict display, thanks to Ven. Kusalacitta
+- Updated numbering system to show words derived from different sources. [More info here](https://digitalpalidictionary.github.io/features.html#numbering-system).
+- Added words from DPS Pāḷi Russian dictionary, thanks to Ven. Devamitta
+- Many corrections and additions based on user feedback.
+
 ## 2023-01-06
 - 70 015 headwords, 26 004 complete, 15 648 partially complete, 28 363 incomplete entries
 - 742 roots, 2 871 root families, 28 476 words derived from roots
