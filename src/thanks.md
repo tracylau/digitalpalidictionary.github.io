@@ -30,7 +30,7 @@ Anyone who I have erroneously forgotten to thank
 
 ## Monasteries
 
-Thank you to all the monasteries which have supported me during the course of this work 
+Thank you to all the monasteries which have sustained me during the course of this work 
 
 Na Uyana Dharmayatana, Melsiripura, Sri Lanka
 

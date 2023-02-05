@@ -1,6 +1,6 @@
 # DPD Bibliography
 
-(An incomplete bibliography, to be updated)
+(An incomplete bibliography)
 
 ## Pāḷi Dictionaries
 
